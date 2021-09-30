@@ -1,7 +1,7 @@
 # MutualismDecline
-Script for the simulations and figures associated to the article "Eco-evolutionary dynamics further weakens mutualistic interaction and coexistence under population decline" and its supplementary materials.
+Scripts for the simulations and figures associated to the article "Eco-evolutionary dynamics further weakens mutualistic interaction and coexistence under population decline" and its supplementary materials.
 
-It Constains
+It Contains
 
 1- In ''SciLab'' functions and simulation scripts to calculate the ecoloigcal density and singular strategies types and values at ecoevolutionary equilibrium of our model for given parameter sets.
 
