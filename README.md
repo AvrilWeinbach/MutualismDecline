@@ -1,5 +1,5 @@
 # MutualismDecline
-Scripts for the simulations and figures associated to the article "Eco-evolutionary dynamics further weakens mutualistic interaction and coexistence under population decline" and its supplementary materials.
+Scripts for the simulations and figures associated to the article "Eco-evolutionary dynamics further weakens mutualistic interaction and coexistence under population decline" and its supplementary materials. this article is on biorXiv under the DOI [https://doi.org/10.1101/570580](https://doi.org/10.1101/570580)
 
 It Contains
 
